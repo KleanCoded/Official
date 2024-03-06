@@ -13,10 +13,11 @@ p{
 }
 h1{
   color:pink;
-  font-size:42px;
+  font-size:242px;
   font-family: "Nunito", sans-serif;
   padding:0;
   margin:0;
+  text-align:center;
 }
 
 .homepagetitlesection{
