@@ -11,4 +11,7 @@ h1{
   color:pink;
   font-size:42px;
   font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
