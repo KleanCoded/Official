@@ -11,6 +11,8 @@ h1{
   color:pink;
   font-size:42px;
   font-family: "Nunito", sans-serif;
+  padding:0;
+  margin:0;
 }
 
 .homepagetitlesection{
